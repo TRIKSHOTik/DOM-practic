@@ -1,0 +1,20 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.clock {
+  padding: 25px 30px;
+  border: 2px solid blue;
+  width: 140px;
+}
+.clock .h {
+  color: red;
+}
+.clock .min {
+  color: purple;
+}
+.clock .s {
+  color: blue;
+}/*# sourceMappingURL=style3.css.map */

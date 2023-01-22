@@ -1,0 +1,40 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    width: 1200px;
+    margin: auto;
+}
+
+.navbar{
+    margin: auto;
+    #lgt{
+        display: none;
+    }
+}
+
+main {
+    padding-top: 40px;
+    text-align: center;
+    a{
+        text-decoration: none;
+        border: 1px solid orange;
+        padding: 20px 30px;
+        margin-top: 30px;
+        display: inline-block;
+        border-radius: 15px;
+        color: black;
+    }
+}
+
+.dark-theme {
+    color: white;
+    background-color: black;
+    
+    a{
+        color: white;
+    }
+}
